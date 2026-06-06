@@ -58,5 +58,8 @@
 
 8. Electronics wiring as below
    1. See barn-door-tracker.ino for code
+   2. Electrical connections diagram below
 
 ![](./images/electronics.jpg)
+
+![Electrical Diagram](./images/circuit_bdst.png)
