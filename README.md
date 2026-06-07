@@ -66,11 +66,11 @@ To support tracking the stars we need a few constants:
   * 86164.09056 (seconds)
 * Law of Cosines (https://en.wikipedia.org/wiki/Law_of_cosines)
 ```math
-c^2 = a^2 + b^2 - 2ab \cos(\Beta)
+c^2 = a^2 + b^2 - 2ab \cos(\theta)
 ```
 Solved for the third side knowing two sides and an angle
 ```math
-c = \sqrt{a^2 + b^2 - 2ab \cos(\Beta)}
+c = \sqrt{a^2 + b^2 - 2ab \cos(\theta)}
 ```
 
 * Steps per full rotation in 28BYJ-48 at full stepping mode
